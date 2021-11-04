@@ -1,6 +1,12 @@
+.item {
+  background-color: honeydew;
+  width: 70px;
+  height: auto;
+}
+
 .statusOff {
   display: inline-block;
-
+  margin-left: 50px;
   border-radius: 50%;
   width: 15px;
   height: 15px;
